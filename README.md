@@ -64,7 +64,7 @@ All labs are stored in `evidences/` folders.
 You can download `.pkt` files (Packet Tracer), configs, and scripts to reproduce the exercises.
 
 Example:
-```markdown
+
 Lab: Basic Network Topology
 Objective: Understand IP addressing and connectivity.
 Steps:
