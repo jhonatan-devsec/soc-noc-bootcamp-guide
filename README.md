@@ -73,6 +73,8 @@ Steps:
 3. Test connectivity with `ping`.
 Expected Result: Both PCs should communicate successfully.
 
+---
+
 ##⚙️ Automation
 This bootcamp includes automation examples:
 
@@ -84,6 +86,8 @@ Bash → restart services like Snort automatically.
 
 Scripts are stored in the scripts/ folder.
 
+---
+
 ##🤝 Contribution
 This repository is open for learning.
 If you want to add your own labs or improvements:
@@ -93,6 +97,8 @@ Fork the repo.
 Create a branch (feature/moduleX).
 
 Submit a pull request.
+
+---
 
 ##📚 Learning Path
 For a guided experience, check the Wiki section:
