@@ -73,7 +73,7 @@ Steps:
 3. Test connectivity with `ping`.
 Expected Result: Both PCs should communicate successfully.
 
-⚙️ Automation
+##⚙️ Automation
 This bootcamp includes automation examples:
 
 PowerShell → create users in Azure AD.
@@ -84,7 +84,7 @@ Bash → restart services like Snort automatically.
 
 Scripts are stored in the scripts/ folder.
 
-🤝 Contribution
+##🤝 Contribution
 This repository is open for learning.
 If you want to add your own labs or improvements:
 
@@ -94,7 +94,7 @@ Create a branch (feature/moduleX).
 
 Submit a pull request.
 
-📚 Learning Path
+##📚 Learning Path
 For a guided experience, check the Wiki section:
 
 Getting Started
